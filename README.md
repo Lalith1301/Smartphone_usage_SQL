@@ -1,5 +1,7 @@
 # **Smartphone Usage Data Analysis Using SQL**	
 
+<img src="https://github.com/Lalith1301/Smartphone_usage_SQL/blob/64ffcaa8224d03371ec3153b2dc8cdbb3dacdcb3/1520138158356.jpeg"
+width="90%" height="90%" alt="Smartphone Locking">
 
 ## Overview
 
